@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Kato nyt näitä
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
@@ -99,6 +99,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
-
 
